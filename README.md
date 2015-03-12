@@ -1,1 +1,3 @@
 # CGK-Addons
+
+- UFPS integration
